@@ -7,7 +7,7 @@ Corpus extraction tool for Referring Expression Generation. It was developed usi
  3. Java JDK 1.8 x64
  4. Weka 3.7.11
 
-------
+
 
 Requisitos
 ========
@@ -22,7 +22,7 @@ Requisitos
  5. Selecione o arquivo "weka.jar", na pasta citada anteriormente e confirme as ações.
 
  
------
+
  
 Como Utilizar
 ========
@@ -45,7 +45,7 @@ Para funcionamento correto, siga os seguintes passos de utilização:
   * É calculado o coeficiente **Dice** para cada expressão.
   * No final, é apresentada a média dos coeficientes.
 
------
+
 
 Detalhes importantes
 ========
